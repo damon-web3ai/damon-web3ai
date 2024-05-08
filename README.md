@@ -1,12 +1,12 @@
 # <a href="https://github.com/damon1205/about-me">About me</a>
 
-🎓 Hello! My name is Yilma, and I specialize in developing decentralized applications. Over the years, I have gained rich experience in using various blockchain/web 3.0 technologies, working on many projects of varying sizes.
+ Hello! My name is Yilma, and I specialize in developing decentralized applications. Over the years, I have gained rich experience in using various blockchain/web 3.0 technologies, working on many projects of varying sizes.
 
-👨‍💻 My technology stack includes, but is not limited to, Bitcoin, Soloan, Rust, Ethereum, Solidity, Web3.js, and React. This gives me flexibility and the ability to adapt to different project requirements and goals.
+ My technology stack includes, but is not limited to, Bitcoin, Soloan, Rust, Ethereum, Solidity, Web3.js, and React. This gives me flexibility and the ability to adapt to different project requirements and goals.
 
-📚 In my free time, I enjoy to reading new technologies in the field of blockchain and cryptocurrencies. This helps me stay on top of the latest trends and innovations, which in turn allows me to create even more effective and modern solutions.
+ In my free time, I enjoy to reading new technologies in the field of blockchain and cryptocurrencies. This helps me stay on top of the latest trends and innovations, which in turn allows me to create even more effective and modern solutions.
 
-✈️ I am always looking for new and interesting projects that will allow me to further develop my skills and knowledge. I believe that constant self-development and the pursuit of excellence is what makes a great developer. Let's work together to create something amazing!
+ I am always looking for new and interesting projects that will allow me to further develop my skills and knowledge. I believe that constant self-development and the pursuit of excellence is what makes a great developer. Let's work together to create something amazing!
 
 ## 🛠️ Skills
 ![bitcoin](https://img.shields.io/badge/Bitcoin-3C3C3D?style=for-the-badge&logo=bitcoin&logoColor=yellow)
