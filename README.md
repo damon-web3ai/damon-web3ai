@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-# <a href="https://github.com/btcwhiz/about-me">Blockchain Specialist</a>
+# <a href="https://github.com/damon1205/about-me">Blockchain Specialist</a>
 
 🎓 Hello! My name is Yilma, and I specialize in developing decentralized applications. Over the years, I have gained rich experience in using various blockchain/web 3.0 technologies, working on many projects of varying sizes.
 
