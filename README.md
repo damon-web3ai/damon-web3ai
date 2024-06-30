@@ -1,5 +1,3 @@
-# <a href="https://github.com/damon1205/about-me">About me</a>
-
  Hello! I specialize in developing decentralized applications. Over the years, I have gained rich experience in using various blockchain/web 3.0 technologies, working on many projects of varying sizes.
 
  My technology stack includes, but is not limited to, Bitcoin, Soloan, Rust, Ethereum, Solidity, Web3.js, and React. This gives me flexibility and the ability to adapt to different project requirements and goals.
